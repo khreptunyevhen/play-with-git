@@ -10,3 +10,4 @@ console.log(obj);
 console.log(obj.speed);
 console.log(obj["speed"]);
 console.log(obj["color"]);
+console.log(obj);
